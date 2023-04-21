@@ -19,11 +19,11 @@ To install the bindings via [Composer](https://getcomposer.org/), add the follow
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/efsa-io/bigbuy-php-api-client.git"
+      "url": "https://github.com/shopiqo/bigbuy-php-api-client.git"
     }
   ],
   "require": {
-    "efsa-io/bigbuy-php-api-client": "*@dev"
+    "shopiqo/bigbuy-php-api-client": "*@dev"
   }
 }
 ```
